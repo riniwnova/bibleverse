@@ -1,7 +1,7 @@
 # bibleverse
 
 A new Flutter project.
-
+# Rini Dwinova Sihombing (H1101221018)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
